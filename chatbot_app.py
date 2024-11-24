@@ -1,5 +1,4 @@
 import nltk
-nltk.download('popular')
 from nltk.stem import WordNetLemmatizer
 lemmatizer = WordNetLemmatizer()
 import pickle
@@ -70,3 +69,5 @@ if user_input:
     st.write(f"User: {user_input}")
     chatbot_response_text = chatbot_response(user_input)
     st.write(f"Bot: {chatbot_response_text}")
+
+
