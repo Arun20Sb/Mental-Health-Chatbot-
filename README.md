@@ -2,10 +2,11 @@
 
 Welcome to MentalBoost, your friendly AI-powered chatbot designed to help boost your mental health and keep those positive vibes flowing! 🌟 Whether you're feeling down or just need someone to chat with, MentalBoost is here to lend a digital ear. 🤖✨
 
-👉 Check it out live on [MentalBoost](https://mentalboost.streamlit.app/)
+👉 Check it out live on [MentalBoost](https://mentalboost.streamlit.app/){:target="_blank"}
+  URL: https://mentalboost.streamlit.app/
 
 
-#🚀 Features
+🚀 Features
 
 - Friendly Conversations: Talk to the chatbot about anything! It’s always here to listen and respond. 💬🤗
 - Mental Health Support: Get thoughtful responses that help you manage your feelings and thoughts. 🧠❤️
@@ -13,7 +14,7 @@ Welcome to MentalBoost, your friendly AI-powered chatbot designed to help boost 
 - Real-Time Chat: Instant feedback and responses. Just type and chat away! ⚡️
 
 
-#👩‍💻 Technologies Used
+👩‍💻 Technologies Used
 
 - Streamlit: For building the interactive and fast web app 🚀
 - NLTK: For natural language processing (NLP) so the bot understands your thoughts 🧠💬
@@ -21,7 +22,7 @@ Welcome to MentalBoost, your friendly AI-powered chatbot designed to help boost 
 - Python: The magic behind it all 🔮
 
 
-#💡 How It Works
+💡 How It Works
 
 1. Type a message into the chat 🖊️
 2. The chatbot analyzes your words using **NLP** 🔍
