@@ -4,3 +4,4 @@ keras
 tensorflow
 numpy
 scikit-learn
+nltk==3.7  # Optional, to ensure compatibility
