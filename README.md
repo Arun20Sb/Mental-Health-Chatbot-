@@ -4,7 +4,7 @@ Welcome to MentalBoost, your friendly AI-powered chatbot designed to help boost 
 
 👉 Check it out live on [MentalBoost](https://mentalboost.streamlit.app/) 
 
-URL: https://mentalboost.streamlit.app/
+ URL: https://mentalboost.streamlit.app/
 
 
 🚀 Features
